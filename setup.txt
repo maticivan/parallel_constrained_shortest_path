@@ -3,6 +3,8 @@ The program will read the integers from this file sequentially and consider them
 
 
 Number of threads: 90112
+The number of threads should be large and should be a multiple of the number of processing elements that the graphic card has.
+
 
 Dimension: 2
 
