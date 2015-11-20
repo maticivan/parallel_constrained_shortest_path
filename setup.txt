@@ -1,0 +1,55 @@
+
+The program will read the integers from this file sequentially and consider them parameters that will alter the behavior of the program. All nonnumeric characters are ignored and are used to describe the meaning of the integers. Dash is also not OK character, unless it is a minus sign of an integer, which is also not OK because none of the parameters from here are expected to be negative.
+
+
+Number of threads: 90112
+
+Dimension: 3
+
+The following five values are used for generating a new random graph that will be stored in file newRandomGraph.txt
+
+Dimension of the new graph: 2 
+
+Max time: 5
+
+Max cost: 8
+
+n: 100
+
+boundary vertex cost: 150
+
+boundary choice: 0
+(zero means the entire boundary of the cube has water; one means only one vertex has water)
+
+
+The following parameters are used to control the execution of the program:
+
+
+
+ALGORITHM CHOICE
+
+current value: 0
+
+Value zero means that the algorithm will not only find the shortest time but will be applied repeatedly for finding the shortest path. 
+
+
+Value one asks to find the shortest time and record the execution time.
+
+
+
+
+
+FORCING CPU SELECTION OVER GPU
+
+current value: 0
+
+Value zero means GPU
+
+Value one means CPU
+
+
+
+
+
+
+
