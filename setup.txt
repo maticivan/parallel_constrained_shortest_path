@@ -4,7 +4,7 @@ The program will read the integers from this file sequentially and consider them
 
 Number of threads: 90112
 
-Dimension: 3
+Dimension: 2
 
 The following five values are used for generating a new random graph that will be stored in file newRandomGraph.txt
 
