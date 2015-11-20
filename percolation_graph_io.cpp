@@ -1,9 +1,12 @@
 
+
 //*******************************************************************************************************
 //******************                                                                                *****
 //******************  A parallel algorithm for constrained shortest path problem                    *****
 //******************                                                                                *****
 //******************  Created by Ivan Matic                                                         *****
+//******************  http://www.imomath.com/maticivan                                              *****
+//******************                                                                                *****
 //******************  License: GNU General Public License, version 3 (GPL-3.0)                      *****
 //******************                                                                                *****
 //******************  The Software is provided "as is," with all faults, defects and errors,        *****
