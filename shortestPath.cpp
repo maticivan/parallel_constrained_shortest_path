@@ -1,9 +1,12 @@
 
+
 //*******************************************************************************************************
 //******************                                                                                *****
 //******************  A parallel algorithm for constrained shortest path problem                    *****
 //******************                                                                                *****
 //******************  Created by Ivan Matic                                                         *****
+//******************  http://www.imomath.com/maticivan                                              *****
+//******************                                                                                *****
 //******************  License: GNU General Public License, version 3 (GPL-3.0)                      *****
 //******************                                                                                *****
 //******************  The Software is provided "as is," with all faults, defects and errors,        *****
@@ -15,8 +18,8 @@
 //*******************************************************************************************************
 
 
-// compile with C++ -I /usr/local/boost_1_58_0 -framework opencl percolation.cpp
-// compile with C++ -I /usr/local/boost_1_59_0 -framework opencl percolation.cpp
+// compile with C++ -I /usr/local/boost_1_58_0 -framework opencl shortestPath.cpp
+// compile with C++ -I /usr/local/boost_1_59_0 -framework opencl shortestPath.cpp
 
 
 #include "percolation_graph_io.cpp"
